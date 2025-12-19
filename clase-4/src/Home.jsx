@@ -10,7 +10,7 @@ const Home = () => {
   const stylesJuan = { background: "blue" }
 
   const handleClick = () => {
-    nombre = nombre === "Gabriel" ? "Juan" : "Gabriel"
+    nombre = nombre === "Gabriel " ? "Juan" : "Gabriel"
     console.log(nombre)
   }
 
